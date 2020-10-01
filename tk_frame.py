@@ -1,6 +1,8 @@
 import tkinter as tk
 
 root = tk.Tk()
+root.title('gyi) 
+
 
 # windowwin frame
 canvas = tk.Canvas(root, width = 500, height = 400)
